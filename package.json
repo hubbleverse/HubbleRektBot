@@ -1,18 +1,26 @@
 {
-  "name": "hubbleliquibot",
+  "name": "nodejs-workshop",
   "version": "1.0.0",
-  "description": "Bot for tracking liquidations and then posting on twitter",
+  "description": "NodeJs Workshop",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "ethers": "^5.5.1",
-    "express": "^4.17.1",
+    "dotenv": "^8.6.0",
     "keccak256": "^1.0.3",
     "twit": "^2.2.11",
     "web3": "^1.6.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EntryLevelDeveloperTraining/nodejs-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EntryLevelDeveloperTraining/nodejs-workshop/issues"
+  },
+  "homepage": "https://github.com/EntryLevelDeveloperTraining/nodejs-workshop#readme"
 }
