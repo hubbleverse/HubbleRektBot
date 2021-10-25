@@ -35,6 +35,8 @@ function tweeted(err,data,response){
 
 .on("data",function(data){
   let transactionHash=data.transactionHash;
+  web3.eth.getTransactionReceipt(transactionHash)
+     .then(console.log);
   var tweet={
     status : 'You have been liquidated good sir ! : https://cchain.explorer.avax-test.network/tx/'+transactionHash,
   }
