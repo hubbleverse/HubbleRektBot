@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EntryLevelDeveloperTraining/nodejs-workshop.git"
+    "url": "git+https://github.com/Hubble-Community/HubbleRektBot.git"
   },
-  "author": "",
+  "author": "Devdatt N and Tarun Saini",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EntryLevelDeveloperTraining/nodejs-workshop/issues"
+    "url": "https://github.com/Hubble-Community/HubbleRektBot/issues"
   },
-  "homepage": "https://github.com/EntryLevelDeveloperTraining/nodejs-workshop#readme"
+  "homepage": "https://github.com/Hubble-Community/HubbleRektBot"
 }
