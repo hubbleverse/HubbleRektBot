@@ -12,7 +12,7 @@ const ammMap = {
     '0xCF9541901625fd348eDe299309597cB36f4e4328': 'BTC-PERP',
     '0x352B0c6B3Ef762F4fA4C20CfecD14251236fD166': 'AVAX-PERP'
   }
-  
+
   async function main() {
     console.log('Console : Script is running now.')
     const clearingHouseAbi = [
