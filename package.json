@@ -12,16 +12,17 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./twitter-bot/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hubble-Community/HubbleRektBot.git"
+    "url": "git+https://github.com/EntryLevelDeveloperTraining/nodejs-workshop.git"
   },
-  "author": "Devdatt N and Tarun Saini",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hubble-Community/HubbleRektBot/issues"
+    "url": "https://github.com/EntryLevelDeveloperTraining/nodejs-workshop/issues"
   },
-  "homepage": "https://github.com/Hubble-Community/HubbleRektBot"
+  "homepage": "https://github.com/EntryLevelDeveloperTraining/nodejs-workshop#readme"
 }
